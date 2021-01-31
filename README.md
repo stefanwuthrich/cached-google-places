@@ -3,7 +3,7 @@ Example of a cached google paces typehead API with a ReactJS Frontend
 
 
 Clone Repo and start Backend:
-- git clone https://github.com/stefanwuthrich/cached-google-places
+- git clone git://github.com/stefanwuthrich/cached-google-places
 - cd cached-google-places/backend
 - go run main.go
 
