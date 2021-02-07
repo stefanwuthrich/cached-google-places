@@ -1,5 +1,5 @@
 # cached-google-places
-Example of a cached google paces typehead API with a ReactJS Frontend
+Example of a cached google places typehead API with a ReactJS Frontend
 
 
 Clone Repo and start Backend:
